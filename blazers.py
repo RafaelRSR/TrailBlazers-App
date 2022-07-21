@@ -1,5 +1,5 @@
 from next_games import next_games
-print("Welcome to the official Portland Trail Blazers App!")
+print("Welcome to the official Portland Trail Blazers App! 🌹")
 
 
 def choice():
